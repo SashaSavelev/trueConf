@@ -94,7 +94,7 @@ export default {
 
 <style>
 .shaft {
-    background-color: rgb(21, 76, 76);
+    background-color: rgb(52, 100, 100);
     width: 200px;
     height: 80%;
     display: flex;
