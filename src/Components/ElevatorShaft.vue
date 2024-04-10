@@ -115,8 +115,7 @@ export default {
     z-index: 1000;
     position: absolute;
     right: 0;
-    background-color: #9effa1;
-    /* Зеленый цвет */
+    background-color: #9effa1;  
     border: none;
     color: rgb(0, 0, 0);
     padding: 5px 16px;

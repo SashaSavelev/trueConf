@@ -56,7 +56,7 @@
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    transition: bottom 0.5s cubic-bezier(0.645, 0.045, 0.355, 1); /* Скорость анимации с кривой Безье */
+    transition: bottom 0.5s cubic-bezier(0.645, 0.045, 0.355, 1); 
   }
   
   .elevator-display {
